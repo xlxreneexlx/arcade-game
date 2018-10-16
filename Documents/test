@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+
+<body>
+<label for="frmFavSoda">Favorite Type of soda</label>
+<input type="search" name="fav-soda" id="frmFavSoda" list="sodaType">
+<datalist id="sodaType">
+  <option value="coke">
+  <option value="diet">
+  <option value="sprite">
+</datalist>
+</body>
+
+</html>
